@@ -1,0 +1,20 @@
+{
+  "name": "clear_clutter",
+  "version": "1.0.0",
+  "description": "a simple clutter clearing app",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "clutter"
+  ],
+  "author": "suryakanta swain",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
